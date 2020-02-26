@@ -111,3 +111,10 @@ Forked from [SAMP-Android](https://github.com/y-kalcor/SA-MP-Android "SAMP-Andro
 ## 八.愉快的玩♂耍♂
 
 打开手机里的GTA:SA，进入主界面后第二个按键为Multiplayer，点击即可
+
+## 奔溃调试
+
+```bash
+> adb logcat | ndk-stack -sym 根目录\obj\local\armeabi-v7a
+```
+
