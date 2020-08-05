@@ -1,6 +1,6 @@
 # SA-MP Mobile
 
-[Chinese edition](https://github.com/SA-MP-Mobile/SA-MP-Mobile/README-CN.MD)
+[Chinese edition](https://github.com/SA-MP-Mobile/SA-MP-Mobile/blob/master/README-CN.MD)
 
 Forked from [SAMP-Android](https://github.com/y-kalcor/SA-MP-Android "SAMP-Android")
 
@@ -42,6 +42,7 @@ Thanks:
 - [Source](https://github.com/SA-MP-Mobile/SA-MP-Mobile/archive/build69.zip)
 - [Android-NDK r14b](https://developer.android.com/ndk/downloads/older_releases.html)
 - [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [ApkTool](https://ibotpeaches.github.io/Apktool/install/)
 
 ### System
 
